@@ -5,7 +5,7 @@ import os
 
 warnings.filterwarnings("ignore", message="Default grid_sample and affine_grid behavior has changed")
 
-key_path = r"C:\Users\gk12f\OneDrive\바탕 화면\test\ictgcp001-7d5b3d756d02.json"
+key_path = r" "
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = key_path
 
 # Pororo OCR
